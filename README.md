@@ -1,4 +1,4 @@
-# MinecraftClub
+# Minecraft Club
 Just a way to organize my curseforge projects, as well as scripts, configs, and mods I frequently use. 
 Helpful if you wanna join, update, or modify my modpacks.
 Currently Supported Projects:
