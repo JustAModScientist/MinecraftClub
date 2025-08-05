@@ -1,0 +1,10 @@
+import crafttweaker.api.recipe.type.Recipe;
+import crafttweaker.api.world.Container;
+import crafttweaker.api.tag.MCTag;
+craftingTable.remove(<item:farmersdelight:flint_knife>);
+craftingTable.remove(<item:farmersdelight:iron_knife>);
+craftingTable.remove(<item:farmersdelight:golden_knife>);
+craftingTable.remove(<item:farmersdelight:diamond_knife>);
+<tag:items:notreepunching:knives>.add(<tag:items:farmersdelight:tools/knives>);
+<tag:items:notreepunching:knives>.add(<tag:items:forge:tools/knives>);
+<tag:items:farmersdelight:tools/knives>.add(<tag:items:notreepunching:knives>);

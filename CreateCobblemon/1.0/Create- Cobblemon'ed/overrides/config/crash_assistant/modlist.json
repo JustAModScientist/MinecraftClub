@@ -1,0 +1,429 @@
+{
+  "fmlloader-1.20.1-47.4.0.jar (modloader)": {
+    "jarName": "fmlloader-1.20.1-47.4.0.jar (modloader)",
+    "modId": "forge",
+    "version": "fmlloader-1.20.1-47.4.0.jar"
+  },
+  "architectury-9.2.14-forge.jar": {
+    "jarName": "architectury-9.2.14-forge.jar",
+    "modId": "architectury",
+    "version": "9.2.14"
+  },
+  "artifacts-forge-9.5.16.jar": {
+    "jarName": "artifacts-forge-9.5.16.jar",
+    "modId": "artifacts",
+    "version": "9.5.16"
+  },
+  "beekeeperhut-forge-mc1.20.1-2.0.1.jar": {
+    "jarName": "beekeeperhut-forge-mc1.20.1-2.0.1.jar",
+    "modId": "beekeeperhut",
+    "version": "2.0.1"
+  },
+  "biomemusic-1.20.1-3.5.jar": {
+    "jarName": "biomemusic-1.20.1-3.5.jar",
+    "modId": "biomemusic",
+    "version": "1.20.1-3.5"
+  },
+  "bobberdetector-forge1.20.1-1.0.2.jar": {
+    "jarName": "bobberdetector-forge1.20.1-1.0.2.jar",
+    "modId": "bobberdetector",
+    "version": "1.0.2"
+  },
+  "botarium-forge-1.20.1-2.3.4.jar": {
+    "jarName": "botarium-forge-1.20.1-2.3.4.jar",
+    "modId": "botarium",
+    "version": "2.3.4"
+  },
+  "cloth-config-11.1.136-forge.jar": {
+    "jarName": "cloth-config-11.1.136-forge.jar",
+    "modId": "cloth_config",
+    "version": "11.1.136"
+  },
+  "cobbledex-1.20.1-forge-1.1.0.jar": {
+    "jarName": "cobbledex-1.20.1-forge-1.1.0.jar",
+    "modId": "cobbledex",
+    "version": "1.1.0"
+  },
+  "CobbleDollars-forge-1.5.2+1.20.1.jar": {
+    "jarName": "CobbleDollars-forge-1.5.2+1.20.1.jar",
+    "modId": "cobbledollars",
+    "version": "1.5.2+1.20.1"
+  },
+  "CobblemizerForge-2.0.2.jar": {
+    "jarName": "CobblemizerForge-2.0.2.jar",
+    "modId": "cobblemizer",
+    "version": "2.0.2"
+  },
+  "cobblemon-capturexp-1.5-forge-1.0.1.jar": {
+    "jarName": "cobblemon-capturexp-1.5-forge-1.0.1.jar",
+    "modId": "capture_xp",
+    "version": "1.5-forge-1.0.1"
+  },
+  "cobblemon-counter-1.5-forge-1.2.0.jar": {
+    "jarName": "cobblemon-counter-1.5-forge-1.2.0.jar",
+    "modId": "cobbled_counter",
+    "version": "1.5-forge-1.2.0"
+  },
+  "cobblemon-field-moves-1.5-forge-1.1.1.jar": {
+    "jarName": "cobblemon-field-moves-1.5-forge-1.1.1.jar",
+    "modId": "field_moves",
+    "version": "1.5-forge-1.1.1"
+  },
+  "Cobblemon-forge-1.5.2+1.20.1.jar": {
+    "jarName": "Cobblemon-forge-1.5.2+1.20.1.jar",
+    "modId": "cobblemon",
+    "version": "1.5.2+1.20.1"
+  },
+  "cobblemon-unimplemented-items-1.5-forge-1.3.0.jar": {
+    "jarName": "cobblemon-unimplemented-items-1.5-forge-1.3.0.jar",
+    "modId": "unimplemented_items",
+    "version": "1.5-forge-1.3.0"
+  },
+  "cobblemon-whiteout-1.5-forge-1.0.0.jar": {
+    "jarName": "cobblemon-whiteout-1.5-forge-1.0.0.jar",
+    "modId": "whiteout",
+    "version": "1.5-forge-1.0.0"
+  },
+  "cobblemon_poke_labs-1.0.0-forge-1.20.1.jar": {
+    "jarName": "cobblemon_poke_labs-1.0.0-forge-1.20.1.jar",
+    "modId": "poke_labs",
+    "version": "1.0.0"
+  },
+  "cobblemon_simple_center-1.0.0-forge-1.20.1.jar": {
+    "jarName": "cobblemon_simple_center-1.0.0-forge-1.20.1.jar",
+    "modId": "cobblemon_simple_center",
+    "version": "1.0.0"
+  },
+  "cobblemonintegrations-1.20.1-1.0.7.jar": {
+    "jarName": "cobblemonintegrations-1.20.1-1.0.7.jar",
+    "modId": "cobblemonintegrations",
+    "version": "1.0.7"
+  },
+  "cobblemonrider-1.2.4.jar": {
+    "jarName": "cobblemonrider-1.2.4.jar",
+    "modId": "cobblemonrider",
+    "version": "1.2.4"
+  },
+  "cobblemore_lib-1.1.1-forge-1.20.1.jar": {
+    "jarName": "cobblemore_lib-1.1.1-forge-1.20.1.jar",
+    "modId": "cobblemore_lib",
+    "version": "1.1.1"
+  },
+  "Cobblepedia-Forge-0.6.8.jar": {
+    "jarName": "Cobblepedia-Forge-0.6.8.jar",
+    "modId": "cobblepedia",
+    "version": "0.6.8"
+  },
+  "comforts-forge-6.4.0+1.20.1.jar": {
+    "jarName": "comforts-forge-6.4.0+1.20.1.jar",
+    "modId": "comforts",
+    "version": "6.4.0+1.20.1"
+  },
+  "configured-forge-1.20.1-2.2.3.jar": {
+    "jarName": "configured-forge-1.20.1-2.2.3.jar",
+    "modId": "configured",
+    "version": "2.2.3"
+  },
+  "cookyourfood--mc1.20.1--1.11.jar": {
+    "jarName": "cookyourfood--mc1.20.1--1.11.jar",
+    "modId": "cookyourfood",
+    "version": "1.11"
+  },
+  "craftingstation-1.20.1-1.2.3.jar": {
+    "jarName": "craftingstation-1.20.1-1.2.3.jar",
+    "modId": "craftingstation",
+    "version": "1.20.1-1.2.3"
+  },
+  "CrashAssistant-forge-1.19-1.20.1-1.9.15.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.9.15.jar",
+    "modId": "crash_assistant",
+    "version": "1.9.15"
+  },
+  "crashutilities-8.1.4.jar": {
+    "jarName": "crashutilities-8.1.4.jar",
+    "modId": "crashutilities",
+    "version": "8.1.4"
+  },
+  "create-1.20.1-6.0.6.jar": {
+    "jarName": "create-1.20.1-6.0.6.jar",
+    "modId": "create",
+    "version": "6.0.6"
+  },
+  "Create-Cobblemon-Forge-v0.4.jar": {
+    "jarName": "Create-Cobblemon-Forge-v0.4.jar",
+    "modId": "create_cobblemon",
+    "version": "0.4"
+  },
+  "create-new-age-forge-1.20.1-1.1.4.jar": {
+    "jarName": "create-new-age-forge-1.20.1-1.1.4.jar",
+    "modId": "create_new_age",
+    "version": "1.1.4"
+  },
+  "create_better_villagers-1.3.2.jar": {
+    "jarName": "create_better_villagers-1.3.2.jar",
+    "modId": "create_better_villagers",
+    "version": "1.3.2"
+  },
+  "create_cobblemon_factory-1.0.0-forge-1.20.1.jar": {
+    "jarName": "create_cobblemon_factory-1.0.0-forge-1.20.1.jar",
+    "modId": "create_cobblemon_factory",
+    "version": "1.0.0"
+  },
+  "create_enchantment_industry-1.3.3-for-create-6.0.6.jar": {
+    "jarName": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+    "modId": "create_enchantment_industry",
+    "version": "1.3.3-for-create-6.0.6"
+  },
+  "create_klinks_n_klangs-1.0.4.jar": {
+    "jarName": "create_klinks_n_klangs-1.0.4.jar",
+    "modId": "create_klinks_n_klangs",
+    "version": "1.0.4"
+  },
+  "create_mecanical_extruder-1.20.1-1.6.10-6.0.6.jar": {
+    "jarName": "create_mecanical_extruder-1.20.1-1.6.10-6.0.6.jar",
+    "modId": "create_mechanical_extruder",
+    "version": "1.20.1-1.6.10-6.0.6"
+  },
+  "create_peaceful-2.0.0-forge-1.20.1.jar": {
+    "jarName": "create_peaceful-2.0.0-forge-1.20.1.jar",
+    "modId": "create_peaceful",
+    "version": "2.0.0"
+  },
+  "createframed-1.20.1-1.6.5.jar": {
+    "jarName": "createframed-1.20.1-1.6.5.jar",
+    "modId": "createframed",
+    "version": "1.6.5"
+  },
+  "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3.jar": {
+    "jarName": "createsongsandspeakers-forge-mc1.20-0.5 - Fork of 3.22.0-alpha.3.jar",
+    "modId": "iammusicplayer",
+    "version": "0.5 - Fork of iammusic 3.22.0-alpha.3"
+  },
+  "creatorcomesearly-1.0.1-forge-1.20.1.jar": {
+    "jarName": "creatorcomesearly-1.0.1-forge-1.20.1.jar",
+    "modId": "creatorcomesearly",
+    "version": "1.0.0"
+  },
+  "cupboard-1.20.1-2.7.jar": {
+    "jarName": "cupboard-1.20.1-2.7.jar",
+    "modId": "cupboard",
+    "version": "1.20.1-2.7"
+  },
+  "curios-forge-5.14.1+1.20.1.jar": {
+    "jarName": "curios-forge-5.14.1+1.20.1.jar",
+    "modId": "curios",
+    "version": "5.14.1+1.20.1"
+  },
+  "DeeperCaves-1.20.1-1.2.7.jar": {
+    "jarName": "DeeperCaves-1.20.1-1.2.7.jar",
+    "modId": "cavesanddepths",
+    "version": "1.2.7"
+  },
+  "dynamiclights-v1.8.6-mc1.17-1.21.5-mod.jar": {
+    "jarName": "dynamiclights-v1.8.6-mc1.17-1.21.5-mod.jar",
+    "modId": "dynamiclights",
+    "version": "1.8.6+mod"
+  },
+  "dynmus-v2.3.2+1.20-forge.jar": {
+    "jarName": "dynmus-v2.3.2+1.20-forge.jar",
+    "modId": "dynmus",
+    "version": "2.3.2+1.20"
+  },
+  "end_villager_trader-1.0.1-forge-1.20.1.jar": {
+    "jarName": "end_villager_trader-1.0.1-forge-1.20.1.jar",
+    "modId": "end_villager_trader",
+    "version": "1.0.1"
+  },
+  "entity_model_features_forge_1.20.1-2.4.1.jar": {
+    "jarName": "entity_model_features_forge_1.20.1-2.4.1.jar",
+    "modId": "entity_model_features",
+    "version": "2.4.1"
+  },
+  "entity_texture_features_forge_1.20.1-6.2.9.jar": {
+    "jarName": "entity_texture_features_forge_1.20.1-6.2.9.jar",
+    "modId": "entity_texture_features",
+    "version": "6.2.9"
+  },
+  "Essential_1-3-9_forge_1-20-1.jar": {
+    "jarName": "Essential_1-3-9_forge_1-20-1.jar",
+    "modId": "essential-container"
+  },
+  "FarmersDelight-1.20.1-1.2.8.jar": {
+    "jarName": "FarmersDelight-1.20.1-1.2.8.jar",
+    "modId": "farmersdelight",
+    "version": "1.20.1-1.2.8"
+  },
+  "farmersrespite-1.20.1-2.1.2.jar": {
+    "jarName": "farmersrespite-1.20.1-2.1.2.jar",
+    "modId": "farmersrespite",
+    "version": "1.20.1-2.1"
+  },
+  "ferritecore-6.0.1-forge.jar": {
+    "jarName": "ferritecore-6.0.1-forge.jar",
+    "modId": "ferritecore",
+    "version": "6.0.1"
+  },
+  "fightorflight-forge-0.6.1.jar": {
+    "jarName": "fightorflight-forge-0.6.1.jar",
+    "modId": "fightorflight",
+    "version": "0.6.0"
+  },
+  "friendsandfoes-forge-mc1.20.1-3.0.9.jar": {
+    "jarName": "friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+    "modId": "friendsandfoes",
+    "version": "3.0.9"
+  },
+  "geckolib-forge-1.20.1-4.7.3.jar": {
+    "jarName": "geckolib-forge-1.20.1-4.7.3.jar",
+    "modId": "geckolib",
+    "version": "4.7.3"
+  },
+  "handcrafted-forge-1.20.1-3.0.6.jar": {
+    "jarName": "handcrafted-forge-1.20.1-3.0.6.jar",
+    "modId": "handcrafted",
+    "version": "3.0.6"
+  },
+  "interiors-0.5.6+forge-mc1.20.1-local.jar": {
+    "jarName": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+    "modId": "interiors",
+    "version": "0.5.6"
+  },
+  "Jade-1.20.1-Forge-11.13.1.jar": {
+    "jarName": "Jade-1.20.1-Forge-11.13.1.jar",
+    "modId": "jade",
+    "version": "11.13.1+forge"
+  },
+  "jei-1.20.1-forge-15.20.0.112.jar": {
+    "jarName": "jei-1.20.1-forge-15.20.0.112.jar",
+    "modId": "jei",
+    "version": "15.20.0.112"
+  },
+  "kotlinforforge-4.11.0-all.jar": {
+    "jarName": "kotlinforforge-4.11.0-all.jar"
+  },
+  "libertyvillagers-2.0.0+forge+1.20.1.jar": {
+    "jarName": "libertyvillagers-2.0.0+forge+1.20.1.jar",
+    "modId": "libertyvillagers",
+    "version": "2.0.0+forge+1.20.1"
+  },
+  "MegamonsForge-1.2.1.jar": {
+    "jarName": "MegamonsForge-1.2.1.jar",
+    "modId": "megamons",
+    "version": "1.5.0+1.20.1-forge+fabric-75b66fa"
+  },
+  "notenoughcrashes-4.4.9+1.20.1-forge.jar": {
+    "jarName": "notenoughcrashes-4.4.9+1.20.1-forge.jar",
+    "modId": "notenoughcrashes",
+    "version": "4.4.9+1.20.1"
+  },
+  "otyacraftengine-forge-mc1.20.1-3.7.0-1.20.1.jar": {
+    "jarName": "otyacraftengine-forge-mc1.20.1-3.7.0-1.20.1.jar",
+    "modId": "otyacraftengine",
+    "version": "3.7.0-1.20.1"
+  },
+  "Patchouli-1.20.1-84.1-FORGE.jar": {
+    "jarName": "Patchouli-1.20.1-84.1-FORGE.jar",
+    "modId": "patchouli",
+    "version": "1.20.1-84.1-FORGE"
+  },
+  "PeacefulDepletion-(neo)forge-1.20.1-1.0.2.jar": {
+    "jarName": "PeacefulDepletion-(neo)forge-1.20.1-1.0.2.jar",
+    "modId": "peaceful_depletion",
+    "version": "1.0.2"
+  },
+  "polymorph-forge-0.49.10+1.20.1.jar": {
+    "jarName": "polymorph-forge-0.49.10+1.20.1.jar",
+    "modId": "polymorph",
+    "version": "0.49.10+1.20.1"
+  },
+  "Quark-4.0-462.jar": {
+    "jarName": "Quark-4.0-462.jar",
+    "modId": "quark",
+    "version": "4.0-462"
+  },
+  "quark_delight_1.0.0_forge_1.20.1.jar": {
+    "jarName": "quark_delight_1.0.0_forge_1.20.1.jar",
+    "modId": "quarkdelight",
+    "version": "1.0.0"
+  },
+  "resourcefullib-forge-1.20.1-2.1.29.jar": {
+    "jarName": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "modId": "resourcefullib",
+    "version": "2.1.29"
+  },
+  "rocket_mons-1.0.jar": {
+    "jarName": "rocket_mons-1.0.jar",
+    "modId": "rocket_mons",
+    "version": "1.0-1.20.X"
+  },
+  "sophisticatedbackpacks-1.20.1-3.23.23.1289.jar": {
+    "jarName": "sophisticatedbackpacks-1.20.1-3.23.23.1289.jar",
+    "modId": "sophisticatedbackpacks",
+    "version": "3.23.23.1289"
+  },
+  "sophisticatedcore-1.20.1-1.2.78.1059.jar": {
+    "jarName": "sophisticatedcore-1.20.1-1.2.78.1059.jar",
+    "modId": "sophisticatedcore",
+    "version": "1.2.78.1059"
+  },
+  "Terralith_1.20.x_v2.5.4.jar": {
+    "jarName": "Terralith_1.20.x_v2.5.4.jar",
+    "modId": "terralith",
+    "version": "2.5.4"
+  },
+  "thirstcanteen-1.20.1-2.0.jar": {
+    "jarName": "thirstcanteen-1.20.1-2.0.jar",
+    "modId": "thirstcanteen",
+    "version": "1.20.1-2.0"
+  },
+  "ThirstWasTaken-1.20.1-1.4.0.jar": {
+    "jarName": "ThirstWasTaken-1.20.1-1.4.0.jar",
+    "modId": "thirst",
+    "version": "1.20.1-1.4.0"
+  },
+  "tmg-1.3.jar": {
+    "jarName": "tmg-1.3.jar",
+    "modId": "tmg",
+    "version": "1.3"
+  },
+  "toms_storage-1.20-1.7.1.jar": {
+    "jarName": "toms_storage-1.20-1.7.1.jar",
+    "modId": "toms_storage",
+    "version": "1.7.1"
+  },
+  "Tomtaru\u0027s Cobblemon  Farmer\u0027s Delight Tweaks - 1.20.1 - B.1.2.jar": {
+    "jarName": "Tomtaru\u0027s Cobblemon  Farmer\u0027s Delight Tweaks - 1.20.1 - B.1.2.jar",
+    "modId": "tmtcd",
+    "version": "0.0.3"
+  },
+  "underground_village-1.5.5.jar": {
+    "jarName": "underground_village-1.5.5.jar",
+    "modId": "underground_village",
+    "version": "1.5.5"
+  },
+  "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar": {
+    "jarName": "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
+    "modId": "villagersplus",
+    "version": "3.1"
+  },
+  "Xaeros_Minimap_FP24.2.0_Forge_1.20.jar": {
+    "jarName": "Xaeros_Minimap_FP24.2.0_Forge_1.20.jar",
+    "modId": "xaerominimapfair",
+    "version": "24.2.0"
+  },
+  "XaerosWorldMap_1.39.12_Forge_1.20.jar": {
+    "jarName": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+    "modId": "xaeroworldmap",
+    "version": "1.39.12"
+  },
+  "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar": {
+    "jarName": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+    "modId": "yeetusexperimentus",
+    "version": "2.3.1-build.6+mc1.20.1"
+  },
+  "Zeta-1.0-30.jar": {
+    "jarName": "Zeta-1.0-30.jar",
+    "modId": "zeta",
+    "version": "1.0-30"
+  }
+}
