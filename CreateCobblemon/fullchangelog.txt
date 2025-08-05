@@ -1,1 +1,2 @@
 1.0 - added modernfix + crafttweaker
+1.0.1 - removed JigglyRadio resource pack from CC. Apparently, the size of this ZIP file was preventing the pack from uploading. If you want the pack, just download it online.
